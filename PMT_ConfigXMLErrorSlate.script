@@ -1,0 +1,16 @@
+(*Click NewVersion*)
+
+(*click "contextConfig"*)
+
+wait 4
+
+Click "ErrorSlateContext"
+
+wait 3
+
+moveto "errorSlateSWF"
+
+
+
+
+

@@ -1,0 +1,36 @@
+click "BaseOmnitureMediaTrackingDDM"
+click "BaseOmnitureMediaTrackingEnabled"
+
+moveto "BaseOmnitureHeartbeatsEnabledDefault"
+
+(*click "BaseOmnitureHeartbeatsDDM"
+click "BaseOmnitureHeartbeatsEnabled"*)
+
+(*click "BaseOmnitureMediaLiveEventDDM"
+click "BaseOmnitureMediaLiveEventEnabled"*)
+
+(*
+click "BaseOmnitureLiveEventIDs"
+typeText "LIVE123456"
+
+drag "BaseSettingSlider"
+drop "BaseSettingSlider02"
+
+click "BaseOmnitureAdTrackingDDM"
+click "BaseOmnitureAdTrackingEnabled"
+
+click "BaseTrackingServerField"
+typeText "BaseTrackingServer"
+
+click "BaseNetworkSuiteNameField"
+typeText "BaseNetworkSuiteName"
+
+click "BasePartnerSuiteNameField"
+typeText "BasePartnerSuiteName"
+
+click "BaseViralSuiteNameField"
+typeText "BaseViralSuiteName"
+
+click "BaseVisitorNameSpaceDDM"
+click "BaseVisitorNameSpaceEnabled"
+*)

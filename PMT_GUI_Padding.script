@@ -1,0 +1,23 @@
+click "AddSettings"
+drag "AddSettingsSlider"
+drop "AddSettingsSlider4a"
+
+click "guiPadding"
+click "addButton"
+
+
+moveTo "guiPaddingDDM"
+click "ContentSettings_TopLeft"
+typeText "30"
+click "ContentSettings_TopRight"
+typeText "30"
+
+click "ContentSettings_BottomLeft"
+typeText "30"
+click "ContentSettings_BottomRight"
+typeText "30"
+
+click "AdLeft"
+typeText "30"
+click "AdRight"
+typeText "30"

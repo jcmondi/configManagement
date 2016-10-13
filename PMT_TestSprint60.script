@@ -1,0 +1,75 @@
+Click "PMTQ"
+(*Click "PMT-D"*)
+(*Click "PMT-Prod"*)
+
+waitfor 10, "PMTLogin"
+
+Click "PMTLogin"
+TypeText mondij
+Click "PMTPassword"
+TypeText Playerb8
+Click "LoginButton"
+wait 5
+
+Click "ProtoButton"
+(*Click "CreateNewPlayer"*)
+Click "NewPlayer"
+wait 5
+
+Click "PlayerNameField"
+TypeText AutoTestExConfigBase15523
+
+Click "PlayerURIField"
+TypeText "mgid:file:AutoTestExConfigBase15523:mtvnservices.com:"
+
+Click "SiteSupportEmail"
+TypeText "john.mondi@mtvn.com"
+
+Click "GroupDDM"
+Click "protodd"
+
+Click "EnabledButton"
+
+(*Click "ExternalConfigButton"
+MoveTo "ExternalConfigList"*)
+wait 5
+
+Click "CreateButton"
+
+wait 2
+
+Click "OkButton"
+wait 5
+
+Click "LastEdited"
+wait 2
+Click "LastEdited"
+
+Click "CheckStatus"
+wait 5
+(*Click "EditPlayer"*)
+Click "PlayerEdit"
+
+Click "BaseSettings"
+Moveto "ExternalConfig"
+Click "ExternalConfigDDM"
+Click "ExConfigEnabled"
+
+
+Moveto "ExternalConfigURL"
+Click "ExternalConfigURLField"
+typeText "http://media.mtvnservices.com/pmt/e1/players/mgid:uma:video:mtvmusic.com:/config.xml"
+
+Click "PublishButton"
+
+
+
+
+
+
+
+
+
+
+
+

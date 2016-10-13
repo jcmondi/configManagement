@@ -1,0 +1,6 @@
+click "FlashSSIDoverride"
+click "enabledDD"
+
+click "baseFlashSSIDField"
+typeText "FlashSSIDOverrideBaseValue"
+

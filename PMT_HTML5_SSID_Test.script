@@ -1,0 +1,10 @@
+if ImageFound("PlayerSettings")
+	Click FoundImageLocation()
+end if
+
+click "AddSettings"
+click "HTML5SSID"
+click "AddButton"
+
+click "HTML5SSIDField"
+typeText "HTML5SSIDTest"

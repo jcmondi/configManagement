@@ -1,0 +1,4 @@
+click "WiFi"
+click "other"
+click "otherField"
+typeText "otherField"

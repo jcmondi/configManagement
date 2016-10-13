@@ -1,0 +1,19 @@
+click "PlayerSettings"
+click "AddSettings"
+
+drag "AddSettingsSlider"
+drop "AddSettingsSlider05"
+
+click "bufferbarDisplay"
+click "addbutton"
+
+Click "bufferBarDisplayDDM"
+moveto "onForProgressive"
+moveto "onForAll"
+moveto "onForProgressive"
+click "onForAll"
+
+
+
+
+

@@ -1,0 +1,14 @@
+click "PlayerSettings"
+click "AddSettings"
+
+drag "AddSettingsSlider"
+drop "AddSettingsSlider03"
+
+click "EmbedAPIVersionSetting"
+click "AddButton"
+
+click "EmbedAPIVersionContextDDM"
+click "EmbedAPI242"
+
+
+

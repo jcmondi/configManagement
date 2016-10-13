@@ -1,0 +1,12 @@
+
+if ImageFound("PlayerSettings")
+	Click FoundImageLocation()
+end if
+
+click "AddSettings"
+click "flashSSIDOverride"
+click "AddButton"
+
+click "flashSSIDOverRideDDM"
+moveTo "Enabled"
+click "Disabled"

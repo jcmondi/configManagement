@@ -1,0 +1,46 @@
+Universal NewVersion
+
+click "Players"
+wait 6
+
+Click "LastEdited"
+wait 4
+Click "LastEdited"
+wait 6
+
+Click "CheckStatus"
+wait 5
+(*Click "EditPlayer"*)
+Click "PlayerEdit"
+
+click "BaseSettings"
+
+--doubleClick "BaseSettingPlayerNameField"
+--typetext backspace
+Click  "BaseSettingPlayerNameField"
+TypeText Commandkey, "a"
+TypeText "AutoTest" && NewVersion && "Modified"
+Click "PublishButton"
+
+if ImageFound("OKBUtton")
+	Click FoundImageLocation()
+end if
+
+wait 5
+
+
+click "Players"
+wait 6
+
+Click "LastEdited"
+wait 5
+Click "LastEdited"
+wait 4
+
+Click "CheckStatus"
+wait 5
+(*Click "EditPlayer"*)
+Click "PlayerEdit"
+
+click "BaseSettings"
+moveto "ModifiedField"

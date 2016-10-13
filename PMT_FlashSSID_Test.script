@@ -1,0 +1,15 @@
+
+if ImageFound("PlayerSettings")
+	Click FoundImageLocation()
+end if
+
+click "AddSettings"
+click "flashSSID"
+click "AddButton"
+
+click "flashSSIDField"
+typeText "FlashSSIDTest"
+
+
+
+

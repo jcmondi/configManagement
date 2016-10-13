@@ -1,0 +1,5 @@
+Click "FWNetworkIDField"
+TypeText "NetworkID"
+
+Click "FlashSSIDField"
+TypeText "FlashSSID"

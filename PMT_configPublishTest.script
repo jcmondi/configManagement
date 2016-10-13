@@ -1,0 +1,29 @@
+Universal NewVersion
+
+
+(*wait 420*)
+(*click "Bookmarks"*)
+click "BookmarksFolder"
+
+(*click "Players-Live"*)
+click "Players-Q"
+
+drag "BrowserSliderTop"
+drop "BrowserSliderDown"
+
+
+(*moveto (text:"mtvn", searchrectangle: (0,1800,435,1800))*)
+
+moveto (text:NewVersion)
+
+
+(*moveto (text: NewVersion, searchrectangle: (0,1600,435,1800))*)
+
+
+
+
+
+
+(*click last item of everyimagelocation(text:"mtvn", searchrectangle: (0,1200,335,1400))*)
+
+

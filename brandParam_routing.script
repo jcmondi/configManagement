@@ -1,0 +1,32 @@
+click "ResetCharles"
+click "BookMarks"
+click "MTVJams"
+
+
+IF ImageFound("mediaMtvnServices")
+	click FoundImageLocation()
+end if
+
+IF ImageFound("mediaMtvnServicesQ")
+	click FoundImageLocation()
+end if
+
+click "pmt_folder"
+click "context22"
+click "context13"
+click "context5"
+click "brandParamconfigXML"
+
+IF ImageFound("request")
+	click FoundImageLocation()
+end if
+
+moveTo "bParamRequest"
+
+moveTo "configParamRequest"
+
+moveTo "brandParamRequest"
+
+
+
+

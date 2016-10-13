@@ -1,0 +1,14 @@
+(*moveto  "ESIconfigFullRef"
+moveto "ESI_httpREFERER"*)
+
+(*drag  "ConfigHTMLSliderdown"
+drop "configHTML_MidSlider"*)
+
+click "BrowserBottomOfPage"
+
+moveTo "AcceptsMethodsTestHtml"
+moveTo "FreewheelAppendSIDSuffixTrueHTML"
+moveTo "freeWheelPathParsingFalseHTML"
+
+
+

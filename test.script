@@ -1,0 +1,5 @@
+Put Readtext ((versionStart,Versionend)) into MyVersion
+put MyVersion
+delete every occurrence of "-" in MyVersion
+delete every occurrence of "." in MyVersion
+put MyVersion

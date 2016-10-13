@@ -1,0 +1,23 @@
+click "PlayerSettings"
+click "AddSettings"
+
+drag "AddSettingsSlider"
+drop "AddSettingsSlider08"
+
+click "ThirdPartyFlash"
+click "ThirdPartyHTML5"
+click "AddButton"
+
+click "ThirdPartyHTML5PlayerURL"
+typetext "http://c.brightcove.com/services/viewer/htmlFederated?playerID=1722905576001&playerKey=AQ~~,AAABXxBaT7k~,ou_3OmmqYimTOaKP6do0uWVVdzpp8VJi&forceHTML=true&includeAPI=true&showNoContentMessage=false"
+
+click "ThirdPartyFlashPlayerURL"
+typeText "http://psdev.brightcove.com/viacom/static/VMNPlayer.swf"
+
+
+
+
+
+
+
+

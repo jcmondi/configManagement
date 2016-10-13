@@ -1,0 +1,14 @@
+(*Click "PMTQ"*)
+
+(*Click "PMTD"*)
+
+(* PMTQ = http://pmt.mtvnservices-q.mtvi.com/ *)
+(* PMTQ = http://pmt.mtvnservices-d.mtvi.com/ *)
+
+(*Put Readtext ((versionStart,Versionend)) into MyVersion*)
+Put Readtext ((versionStart,Versionend), contrast:on) into MyVersion
+put MyVersion
+delete every occurrence of "-" in MyVersion
+delete every occurrence of "." in MyVersion
+put MyVersion
+return MyVersion

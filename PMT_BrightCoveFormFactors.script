@@ -1,0 +1,19 @@
+click "AddSettings"
+drag "AddSettingsSlider"
+drop "AddSettingsSliderBottom"
+
+click "brightCoveSetting"
+moveto "brightCoveTint"
+moveto "brightCoveRWD"
+
+click "addButton"
+
+moveto "BrightCoveRWDddm"
+moveto  "brightCoveTintDDM"
+
+
+
+
+
+
+

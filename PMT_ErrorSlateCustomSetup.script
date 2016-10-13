@@ -1,0 +1,15 @@
+click "Protobutton"
+
+click "Players"
+wait 6
+
+Click "LastEdited"
+wait 4
+Click "LastEdited"
+wait 6
+
+Click "CheckStatus"
+wait 5
+(*Click "EditPlayer"*)
+Click "PlayerEdit"
+

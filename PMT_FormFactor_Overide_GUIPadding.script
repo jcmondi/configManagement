@@ -1,0 +1,20 @@
+click "AddSettings"
+drag "AddSettingsSlider"
+drop "AddSettingsSlider05"
+
+click "FormFactor"
+click "FormFactorOverride"
+click "guiPadding"
+click "AddButton"
+
+click "FormFactorDDM"
+click "NetworkEpisode_FullMetadata"
+
+Click "FormFactorOverrideField"
+TypeText "1:2.+3:4.-5:6.-7:*"
+
+moveTo "guiPaddingDDM"
+click "ContentSettings_TopLeft"
+typeText "1"
+click "ContentSettings_TopRight"
+typeText "2"

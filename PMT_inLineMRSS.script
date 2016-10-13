@@ -1,0 +1,34 @@
+click "NetworkContext"
+
+click "AddSettings"
+drag "AddSettingsSlider"
+drop "AddSettingsSlider06"
+
+click "InlineMRSSflash"
+click "inlineMRSSHTML5"
+
+drag "AddSettingsSlider"
+drop "AddSettingsSlider65"
+
+click "ThirdPartyFlashURL"
+click "ThirdPartyHTML5URL"
+
+click "AddButton"
+
+click "ThirdPartyHTML5PlayerURL"
+typeText "http://www.google.com"
+
+click "ThirdPartyFlashPlayerURL"
+typeText "http://y.brightcove.com/bf/viacom/redirect-20120403.swf"
+
+click "mRSShtml5DDM"
+click "enabledDD"
+
+click "mRSSFlashDDM"
+click "enabledDD"
+
+
+
+
+
+

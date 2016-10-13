@@ -1,0 +1,10 @@
+click "BaseSettings"
+
+click "BaseViralPlayerNameField"
+typetext "BaseViralPlayerName"
+
+click "BaseNetworkPlayerNameField"
+typetext "NetworkPlayerName"
+
+click "BasePartnerPlayerNameField"
+typetext "BasePartnerPlayerName"

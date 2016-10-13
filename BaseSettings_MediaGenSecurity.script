@@ -1,0 +1,7 @@
+drag "BaseLevelSlider"
+drop "BaseLevel3"
+
+Moveto "MediaGenSecurity"
+Click "UseMRSSmediagen03"
+Click "MRSSmediagenDDM"
+Click "MRSSmediagenEnabled"

@@ -1,0 +1,15 @@
+click "PlayerSettings"
+click "AddSettings"
+
+
+(* Check Slider *)
+
+drag "AddSettingsSlider"
+drop "AddSettingsSlider05"
+
+click "AirPlayButton"
+click "AddButton"
+click "AirPlayButtonDDM"
+click "AirPlaySwitch"
+
+

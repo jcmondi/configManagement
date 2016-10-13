@@ -1,0 +1,11 @@
+drag "HTMLConfigSlider"
+drop "ConfigHTMLSliderdown"
+
+wait 4
+
+MoveTo "errorSlateTextFieldHTML"
+MoveTo "ErrorSlateTextFieldConfig"
+
+MoveTo "WidthandHeight100"
+MoveTo "idErrorSlate"
+(*  *)

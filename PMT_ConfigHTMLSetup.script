@@ -1,0 +1,18 @@
+doubleclick "XML"
+typeText "html"
+click "startofURL"
+typeText "view-source:origin-"
+click "endofURL"
+
+
+TypeText Return
+
+
+
+
+
+
+
+
+
+

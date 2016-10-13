@@ -1,0 +1,14 @@
+Click "BaseSettings"
+
+Moveto "AlternativeDevices"
+Moveto "AlternativeDevicesDisabled"
+Click "AlternativeDevicesDisabled"
+Click "AlternativeDevicesEnabled"
+
+Click "HTML5_SSID"
+TypeText "SSID_BaseSettings"
+
+Click "HTML5MediagenField"
+typeText commandKey, "a"
+typetext backspace
+TypeText "http://media.mtvnservices.com/mediagen.php"

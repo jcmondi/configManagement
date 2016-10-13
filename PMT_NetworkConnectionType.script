@@ -1,0 +1,47 @@
+click "PlayerSettings"
+click "AddContext"
+click "Context"
+click "ContextTitle"
+
+typeText commandKey, "a"
+typetext backspace
+typeText "NetworkConnectionType"
+
+click "Contexttype"
+
+
+click  "NetworkConnectionType"
+click "WiFi"
+moveto "Cellular"
+moveto "other"
+
+click "AddSettings"
+click "Advertising"
+click "AddButton"
+
+Click "TimeSinceLastAdd"
+TypeText "10"
+
+Click "HTML5SSID"
+TypeText "12345"
+
+Click "FWNetworkIDField"
+TypeText "NetworkID"
+
+Click "FlashSSIDField"
+TypeText "FlashSSID"
+
+(*click "publishbutton"
+click "okButton"*)
+
+
+
+
+
+
+
+
+
+
+
+

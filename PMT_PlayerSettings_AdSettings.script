@@ -1,0 +1,21 @@
+click "AddSettings"
+click "Advertising"
+click "AddButton"
+
+click "TimeSinceLastAd"
+typetext "100"
+
+click "DoubleClick"
+click "FreeWheel"
+
+(*moveto "FreeWheelDefault"*)
+moveto "FWDefaultExpression"
+(*click "FWDDM"*)
+(*click "FWtimeBtwnAds"
+typetext backspace
+typetext "1000"*)
+
+
+click "HTML5SSID"
+typetext "12345"
+

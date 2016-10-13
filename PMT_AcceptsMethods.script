@@ -1,0 +1,10 @@
+click "PlayerSettings"
+click "AddSettings"
+
+drag "AddSettingsSlider"
+drop "AddSettingsSlider4a"
+
+click "AcceptsMethods"
+click "AddButton"
+click "AcceptsMethodsField"
+typeText "AcceptsMethodsTest"

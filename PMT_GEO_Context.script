@@ -1,0 +1,23 @@
+click "PlayerSettings"
+click "AddContext"
+click "Context2"
+click "Context2title"
+typeText commandKey, "a"
+typetext backspace
+typeText "CA"
+
+
+click "ContextType"
+click "GEO"
+click "GEO_RegexField"
+typeText "(CA)"
+
+click "AddSettings"
+drag "AddSettingsSlider"
+drop "AddSettingsSlider03"
+
+click "PlayerFeed"
+click "AddButton"
+
+click "CustomErrorSlateField"
+typeText "http://www.crwflags.com/fotw/images/c/ca.gif"

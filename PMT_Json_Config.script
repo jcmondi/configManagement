@@ -1,0 +1,10 @@
+drag "HTMLConfigSlider"
+drop "ConfigSliderMidPoint"
+
+if ImageFound("esi_IF")
+	MoveTo FoundImageLocation()
+	LogError "esi_IF_error"	
+end if
+
+
+

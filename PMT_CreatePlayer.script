@@ -1,0 +1,32 @@
+Universal NewVersion
+
+Click "ProtoButton"
+Click "CreateNewPlayer"
+
+wait 4
+
+put PMT_Version() into NewVersion
+Click "PlayerNameField"
+TypeText "Autotest" && NewVersion
+Click "PlayerURIField"
+TypeText "mgid:file:AutoTest" & NewVersion & ":mtvnservices.com:"
+
+Click "SiteSupportEmail"
+TypeText "john.mondi@mtvn.com"
+
+Click "GroupDDM"
+Click "protodd"
+
+Click "EnabledButton"
+
+(*Click "ExternalConfigButton"
+MoveTo "ExternalConfigList"*)
+wait 5
+
+Click "CreateButton"
+
+wait 2
+
+moveTO "newPlayerCreated"
+
+Click "OkButton"

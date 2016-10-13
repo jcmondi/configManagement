@@ -1,0 +1,7 @@
+click "AddSettings"
+drag "AddSettingsSlider"
+drop "AddSettingsSlider02"
+
+click "ConvivaReportingSetting"
+click "AddButton"
+

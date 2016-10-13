@@ -1,0 +1,41 @@
+click "AddSettings"
+drag "AddSettingsSlider"
+drop "AddSettingsSlider07"
+
+click "AMA_Settings"
+(*click "AMA_URL"*)
+click "AddBUtton"
+
+moveto "AMA_Kids"
+moveto "beacon-2658"
+
+click "AMA_URL_DDM"
+click "AMA_Entertainment"
+moveto "beacon-2659"
+
+click "AMA_URL_DDM"
+click "AMA_Music"
+moveto "beacon-2660"
+
+click "AMA_URL_DDM"
+click "AMA_International"
+moveto "beacon-2661"
+
+
+click "AMA_URL_DDM"
+click "AMA_Other"
+click "AMA_Beacon_Field"
+typetext "http://ma76-r.analytics.edgesuite.net/config/beacon-Other.xml"
+
+
+
+
+
+
+
+
+
+
+
+
+

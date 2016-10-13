@@ -1,0 +1,12 @@
+if ImageFound("PlayerSettings")
+	Click FoundImageLocation()
+end if
+
+click "AddSettings"
+click "HTML5SSIDOverride"
+click "AddButton"
+
+click "HTML5SSIDOverRideDDM"
+moveTo "Enabled"
+click "Disabled"
+

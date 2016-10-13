@@ -1,0 +1,48 @@
+Click "PMTQ"
+
+(*Click "PMT-D"*)
+(*Click "PMT-Prod"*)
+
+waitfor 10, "PMTLogin"
+
+Click "PMTLogin"
+TypeText mondij
+Click "PMTPassword"
+TypeText newPASS775
+Click "LoginButton"
+wait 5
+
+Click "ProtoButton"
+(*Click "CreateNewPlayer"*)
+Click "CreateNewPlayer"
+wait 5
+
+Click "PlayerNameField"
+TypeText AutoTestDuplicateURI
+
+Click "PlayerURIField"
+TypeText "mgid:file:AutoTestDuplicateURI:mtvnservices.com:"
+
+Click "SiteSupportEmail"
+TypeText "john.mondi@mtvn.com"
+
+Click "GroupDDM"
+Click "protodd"
+
+Click "EnabledButton"
+
+Click "ExternalConfigButton"
+MoveTo "ExternalConfigList"
+wait 5
+
+Click "CreateButton"
+
+wait 2
+
+if ImageFound(4, "newPlayerCreated")
+	MoveTo FoundImageLocation()
+	LogError "Scrubber Found"
+end if
+
+Click "OkButton"
+

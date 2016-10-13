@@ -1,0 +1,31 @@
+click "AddContext"
+click "Context2"
+click "Context2title"
+typeText commandKey, "a"
+typetext backspace
+typeText "CustomErrorSlate"
+
+click "ContextType"
+click "Ref"
+click "RefField"
+typetext "CustomErrorSlate"
+
+click "AddSettings"
+drag "AddSettingsSlider"
+drop "AddSettingsSlider03"
+click "playerFeed"
+click "addButton"
+
+click "ErrorSlateURLDDM"
+click "ErrorSlateText"
+click "ErrorSlateTextField"
+typeText "ErrorSlateTextField"
+
+(*click "ErrorSlateCustomDDM"*)
+
+
+
+
+
+
+

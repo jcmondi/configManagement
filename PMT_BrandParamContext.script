@@ -1,0 +1,27 @@
+click "PlayerSettings"
+click "AddContext"
+click "Context"
+click "ContextTitle"
+typeText commandKey, "a"
+typetext backspace
+typeText "BrandParamContext"
+click "ContextType"
+click "BrandDefinedParam"
+click "BrandParamContextField"
+typeText "videoTypeId=4"
+
+(*click "AddSettings"
+click "ChannelLogo"
+click "AddButton"*)
+
+(*click "AddSettings"
+drag "AddSettingsSlider"
+drop "AddSettingsSlider02"
+click "ConvivaReportingSetting"
+click "AddButton"*)
+
+
+
+
+
+

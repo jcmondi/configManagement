@@ -1,0 +1,36 @@
+click "AddSettings"
+drag "AddSettingsSlider"
+drop "AddSettingsSlider03a"
+
+click "channelLogoSetting"
+click "addButton"
+
+click "ChannelLogoURLField"
+typeText "LogoURL"
+
+click "ImageHeight"
+typetext "10"
+
+click "ImageWidth"
+typetext "15"
+
+click "ChannelBugURL"
+typetext "ChannelBugURL"
+
+click "PositionOffsetX"
+typetext "11"
+
+click "PositionOffsetY"
+typetext "12"
+
+click "StartTime"
+typetext "5"
+
+click "Duration"
+typetext "20"
+
+
+
+
+
+

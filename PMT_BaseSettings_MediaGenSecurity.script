@@ -1,0 +1,6 @@
+Click "BaseSettingsButton"
+
+Moveto "MediaGenSecurity"
+Click "UseMRSSmediagen03"
+Click "MRSSmediagenDDM"
+Click "MRSSmediagenEnabled"

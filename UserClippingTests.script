@@ -1,0 +1,19 @@
+click "Network"
+click "PlayerSettings"
+click "AddSettings"
+
+drag "AddSettingsSlider"
+drop "AddSettingsSlider04"
+click "ShareSettings"
+click "UserClipping"
+click "UserClippingContinueWatching"
+click "AddButton"
+
+moveto "ContinueWatchingDDM"
+moveto "InPlayer"
+
+click "ContinueWatchingDDM"
+click "LinkToSite"
+
+moveto "UserClippingDDM"
+moveto "ShareSettingsDDM"

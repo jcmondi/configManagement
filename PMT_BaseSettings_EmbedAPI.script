@@ -1,0 +1,5 @@
+moveTo "EmbedAPIVersion"
+click "EmbedAPIVersion"
+click "EmbedAPIVersionLatest"
+
+

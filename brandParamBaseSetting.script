@@ -1,0 +1,14 @@
+click "brandParamBaseSetting"
+click "setEnabled"
+
+(*click "NonSecureBrandParamURLfield"
+typeText "http://media.mtvnservices-d.mtvi.com/hosted/temp/brandParamURL.esi"
+
+click "SecureBrandParamURLField"
+typeText "http://media.mtvnservices-d.mtvi.com/hosted/temp/secureBrandParamURL.esi"*)
+
+
+
+
+
+

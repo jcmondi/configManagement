@@ -1,0 +1,5 @@
+click "BrandParamURL"
+typeText commandKey, "a"
+typetext backspace
+
+TypeText "http://grails.mtv-q.mtvi.com/meta/context/video/"

@@ -1,0 +1,19 @@
+click "AddContext"
+click "Context2"
+click "Context2title"
+typeText commandKey, "a"
+typetext backspace
+typeText "HTML5Enabled"
+click "ContextType"
+click "UserAgentDD"
+click "DeviceField"
+typetext "iPad"
+
+click "AddSettings"
+drag "AddSettingsSlider"
+drop "AddSettingsSlider03"
+
+(*moveto "AlternativeDevicesSetting"
+click "AlternativeDevicesSetting"*)
+click "HTML5PlayerVersion"
+click "AddButton"

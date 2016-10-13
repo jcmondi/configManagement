@@ -1,0 +1,10 @@
+click "PlayerSettings"
+
+click "HTML5PlayerVersionDDM"
+
+drag "Html5VersionSlider"
+drop "HTML5PlayerVersionSliderTop"
+click "HTML5PlayerVersionLatest"
+
+
+

@@ -1,0 +1,6 @@
+click "FlashSiteSectionOverride"
+moveTo "enabled"
+
+click "baseFlashSSIDField"
+typeText "FlashSSIDOverrideBaseValue"
+

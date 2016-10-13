@@ -1,0 +1,11 @@
+(*
+drag "HTMLConfigSlider"
+drop "ConfigHTMLSliderdown"
+*)
+
+(*drag  "ConfigHTMLSliderdown"
+drop "configHTML_MidSlider"*)
+
+moveto "freeWheelSuffixJsonTrue"
+moveto "freeWheelSSIDPathParsingFalseJS"
+

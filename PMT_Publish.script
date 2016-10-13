@@ -1,0 +1,15 @@
+click "PublishButton"
+
+(*click "FormFactorOverrideOK"*)
+
+if ImageFound("OKBUtton")
+	Click FoundImageLocation()
+end if
+
+(*if ImageFound("OKBUtton")
+	Click FoundImageLocation()
+end if
+
+if ImageFound("OKBUtton")
+	Click FoundImageLocation()
+end if*)

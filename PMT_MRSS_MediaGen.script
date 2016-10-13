@@ -1,0 +1,11 @@
+click "PlayerSettings"
+click "AddSettings"
+
+(* Check Slider *)
+
+drag "AddSettingsSlider"
+drop "AddSettingsSlider34"
+
+
+Click "UseMRSSmediagen03"
+click "AddButton"

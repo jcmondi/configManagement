@@ -1,0 +1,73 @@
+(*
+click "AddSettings"
+drag "AddSettingsSlider"
+drop "AddSettingsSlider2"
+
+click "ReportingSetting"
+
+click "AddButton"
+
+click "OmniturePropertyOverridesField"
+typeText "OmniturePropertyOverrides"
+
+click "CustomField"
+TypeText "CustomField"
+
+drag "ContextSlider"
+drop "ContextSlider03"
+
+click "CharacterSetField"
+TypeText "12345"
+
+click "DataCenter"
+TypeText "6789"
+
+click "DevTestSuiteName"
+typeText "DevTestSuite"
+
+click "VisitorNameSpaceDDM"
+click "VisitorNameSpaceEnabled"
+
+click "OmnitureAdTrackingDisabled"
+click "OmnitureAdTrackingEnabled"
+click "TrackingServerField"
+typeText "trackingServer.mtv.com"
+
+click "ViralSuiteNameField"
+typeText "ContextViralSuiteName"
+
+click "PartnerSuiteNameField"
+typeText "ContextPartnerSuiteName"
+
+click "NetworkSuiteNameField"
+typeText "ContextNetworkSuiteName"
+*)
+
+(*drag "OmniSlider"
+drop "OmniSlider2"*)
+
+
+(*
+click "ViralPlayerNameField"
+typeText "ViralPlayerName"
+
+click "PartnerPlayerNameField"
+typeText "PartnerPlayerName"
+
+click "NetworkPlayerNameField"
+typeText "NetworkPlayerName"
+
+click "OmnitureMediaTrackingDDM"
+click "OmnitureMediaTrackingEnabled"
+
+click "OmnitureMediaLiveEventDDM"
+click "OmnitureMediaLiveEventEnabled"
+
+click "BaseOmnitureLiveEventIDs"
+typeText "LIVE123456Context"
+*)
+
+(*click "OmniturePropertyOverridesField"
+typeText "OmniturePropertyOverrides"*)
+
+(*add values*)

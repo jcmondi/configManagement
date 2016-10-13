@@ -1,0 +1,6 @@
+(*drag "HTMLConfigSlider"
+drop "ConfigSliderMidPoint"*)
+
+moveTo "esi_BrandParam_true"
+moveTo "esi_BrandParam_URL"
+moveTo "esi_BrandParam_SecureURL"

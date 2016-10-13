@@ -1,0 +1,8 @@
+click "bookmarks"
+click "mtvRoutes"
+
+drag "ESI_Config_Slider"
+drop "ESI_Config_Slider02"
+
+moveto "ESI_fullBrandURL"
+

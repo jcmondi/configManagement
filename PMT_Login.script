@@ -1,0 +1,24 @@
+Click "PMT-Prod"
+(*Click "PMTQ"*)
+
+
+(*Click "PMT-D"*)
+
+(* PMTQ = http://pmt.mtvnservices-q.mtvi.com/ *)
+(* PMTQ = http://pmt.mtvnservices-d.mtvi.com/ *)
+
+(*Click "PMTQ"*)
+
+waitfor 10, "PMTLogin"
+
+wait 2
+
+Click "PMTLogin"
+TypeText mondij
+Click "PMTPassword"
+TypeText newPASS775
+Click "LoginButton"
+wait 5
+
+waitfor 10, "ProtoButton"
+
